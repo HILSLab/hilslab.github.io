@@ -11,3 +11,5 @@ package.json
 package-lock.json
 yarn.lock
 node_modules
+CODEX_GUIDELINES.md
+last_codex_session.txt

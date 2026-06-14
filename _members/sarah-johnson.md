@@ -1,11 +1,8 @@
 ---
-name: Sarah Johnson
+name: Research Assistant
 image: images/photo.jpg
-description: Lead Programmer
-role: programmer
-links:
-  email: sarah.johnson@gmail.com
-  twitter: sarahjohnson
+description: Undergraduate Research Assistant
+role: undergrad
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Research assistant profile placeholder. Replace this entry with the student's name, role, links, and a short research description.

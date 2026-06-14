@@ -1,20 +1,10 @@
 ---
-name: Jane Smith
+name: Principal Investigator
 image: images/photo.jpg
 role: principal-investigator
-affiliation: University of Colorado
-aliases:
-  - J. Smith
-  - J Smith
+affiliation: University at Buffalo
 links:
-  home-page: https://janesmith.com
-  orcid: 0000-0001-8713-9213
+  email: hilslab@buffalo.edu
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Faucibus purus in massa tempor nec feugiat nisl pretium fusce.
-Elit at imperdiet dui accumsan.
-Duis tristique sollicitudin nibh sit amet commodo nulla facilisi.
-Vitae elementum curabitur vitae nunc sed velit dignissim sodales.
-Lacinia at quis risus sed vulputate odio ut.
-Magna eget est lorem ipsum.
+The principal investigator leads HILSLab's research on human-in-the-loop mechanical systems, with emphasis on human-machine interaction, autonomy, robotics, and experimental system design.

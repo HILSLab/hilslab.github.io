@@ -1,10 +1,7 @@
 ---
-name: John Doe
+name: Graduate Student
 image: images/photo.jpg
 role: phd
-group: alum
-links:
-  github: john-doe
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Graduate student profile placeholder. Replace this entry with the student's name, role, links, and a short research description.

@@ -1,9 +1,9 @@
 ---
 ---
 
-# HILSLab's Website
+# Human in the Loop Systems Laboratory
 
-An engaging 1-3 sentence description of your lab.
+We are a mechanical engineering research lab at the University at Buffalo studying how humans interact with intelligent, robotic, and automated systems. Our work combines human factors, controls, robotics, data-driven modeling, and experimental system design to make engineered systems safer, more capable, and more trustworthy.
 
 {% include section.html %}
 
@@ -11,12 +11,12 @@ An engaging 1-3 sentence description of your lab.
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+We investigate human-machine interaction, shared autonomy, physical human-robot collaboration, and decision support for complex engineered systems.
 
 {%
   include button.html
   link="research"
-  text="See our publications"
+  text="Explore research areas"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -28,18 +28,18 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   include feature.html
   image="images/photo.jpg"
   link="research"
-  title="Our Research"
+  title="Research"
   text=text
 %}
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Our projects connect laboratory experiments, computational models, and deployable tools for human-centered mechanical systems.
 
 {%
   include button.html
   link="projects"
-  text="Browse our projects"
+  text="Browse projects"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -51,7 +51,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   include feature.html
   image="images/photo.jpg"
   link="projects"
-  title="Our Projects"
+  title="Projects"
   flip=true
   style="bare"
   text=text
@@ -59,7 +59,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+We bring together students and collaborators with backgrounds in mechanical engineering, robotics, controls, human factors, and data science.
 
 {%
   include button.html
@@ -76,6 +76,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   include feature.html
   image="images/photo.jpg"
   link="team"
-  title="Our Team"
+  title="Team"
   text=text
 %}

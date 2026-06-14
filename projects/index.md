@@ -2,15 +2,14 @@
 title: Projects
 nav:
   order: 2
-  tooltip: Software, datasets, and more
+  tooltip: Lab projects and resources
 ---
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Projects
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Our projects translate research ideas into experiments, prototypes, datasets, software tools, and educational resources. This page is intended to grow with the lab as projects mature from early concepts into publishable and reusable work.
 
-{% include tags.html tags="publication, resource, website" %}
+{% include tags.html tags="publication, resource, software, website" %}
 
 {% include search-info.html %}
 
@@ -22,6 +21,6 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 {% include section.html %}
 
-## More
+## Additional Projects
 
 {% include list.html component="card" data="projects" filter="!group" style="small" %}

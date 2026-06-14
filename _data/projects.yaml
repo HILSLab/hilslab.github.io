@@ -1,47 +1,39 @@
-- title: Cool Dataset
-  subtitle: a subtitle
+- title: Human-in-the-Loop Experiment Platform
+  subtitle: Shared autonomy and human-machine interaction studies
   group: featured
   image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  description: A lab platform for studying how people supervise, collaborate with, and intervene in intelligent mechanical systems.
+  tags:
+    - software
+    - resource
+
+- title: Human-Aware Decision Support
+  subtitle: Modeling workload, trust, and intent
+  group: featured
+  image: images/photo.jpg
+  description: Methods for incorporating human state, task context, and system uncertainty into automated recommendations and control decisions.
   tags:
     - resource
 
-- title: Cool Package
-  subtitle: a subtitle
-  group: featured
+- title: Lab Onboarding Resources
+  subtitle: Research, coding, and experiment documentation
   image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  description: Internal and public-facing resources that help students run experiments, document work, and maintain reproducible research practices.
   tags:
     - resource
+    - website
 
-- title: Cool Tutorial
-  subtitle: a subtitle
+- title: Robotics and Autonomy Prototypes
+  subtitle: Experimental systems for human-centered automation
   image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  description: Prototype robotic and automated systems used to evaluate interaction design, control strategies, and user performance.
   tags:
-    - resource
+    - software
+
+- title: Open Research Artifacts
+  subtitle: Datasets, code, and publication support
+  image: images/photo.jpg
+  description: Reusable artifacts released with lab publications when project constraints allow public sharing.
+  tags:
     - publication
-
-- title: Cool Web App
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - software
-
-- title: Cool Web Server
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - software
+    - resource
